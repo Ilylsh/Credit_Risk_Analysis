@@ -10,7 +10,7 @@ Machine learning is super powerful in determining potential loan risks by learni
     - SMOTEENN
 2. Ensembling
     - Balanced Random Forest Classifier
-    - Easy Ensembling Classifier
+    - Easy Ensemble Classifier
 
 ## Results
 After training 2 models with different sampling techniques, we have following balanced accuracy scores, precision score and recall scores:
